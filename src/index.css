@@ -29,12 +29,12 @@ h1 {
   text-align: center;
   background-color: #f4a226;
   font-family: "Monoton";
-  font-size: 8rem;
+  font-size: 7rem;
   text-transform: uppercase;
   font-weight: 400;
   word-spacing: 30px;
   letter-spacing: -5px;
-  padding: 2.4rem 0;
+  padding: 1.4rem 0;
 }
 
 .add-form {

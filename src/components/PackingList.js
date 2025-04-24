@@ -17,7 +17,7 @@ export default function PackingList({
   if (sortBy === "packed")
     sortedItem = items
       .slice()
-      .sort((a, b) => Number(a.packed) - Number(b.packed));
+      .sort((a, b) => Number(b.packed) - Number(a.packed));
   return (
     <div className="list">
       <ul>
